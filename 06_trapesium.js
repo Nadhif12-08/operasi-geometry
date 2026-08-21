@@ -10,4 +10,4 @@ let Luas = 1/2 * ( a + b ) * t
 let Keliling = a + b + (c * 2) 
 console.log(`
 Luas        : ${Luas}_cm2
-Keliling    : ${Keliling}_cm2`)
+Keliling    : ${Keliling}_cm`)

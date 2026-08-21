@@ -9,4 +9,4 @@ let Luas = a * t
 let Keliling = 2 * (a + b)
 console.log(`
 Luas        : ${Luas}_cm2
-Keliling    : ${Keliling}_cm2`)
+Keliling    : ${Keliling}_cm`)

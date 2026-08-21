@@ -7,4 +7,4 @@ let Luas = (r ** 2) * Math.PI
 let Keliling = 2 * Math.PI * r
 console.log(`
 Luas        : ${Luas}_cm2
-Keliling    : ${Keliling}_cm2`)
+Keliling    : ${Keliling}_cm`)

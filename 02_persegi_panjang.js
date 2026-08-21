@@ -8,4 +8,4 @@ let Luas = p * l
 let Keliling = 2 * (p + l)
 console.log(`
 Luas        : ${Luas}_cm2
-Keliling    : ${Keliling}_cm2`)
+Keliling    : ${Keliling}_cm`)
